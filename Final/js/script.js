@@ -13,9 +13,9 @@ async function fetchQuote() {
 fetchQuote();
 
 const images = [
-    '/Final/imgs/image1.png',
-    '/Final/imgs/image2.png',
-    '/Final/imgs/image3.png'
+    'imgs/image1.png',
+    'imgs/image2.png',
+    'imgs/image3.png'
 ];
 
 let index = 0;
